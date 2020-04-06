@@ -6,3 +6,4 @@
 python.egg-info/
 .vscode/
 .DS_Store
+setup.cfg
